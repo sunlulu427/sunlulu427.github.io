@@ -1,6 +1,8 @@
 # About me
 
-source code in [develop branch](https://github.com/sunlulu427/sunlulu427.github.io/tree/develop)
+**source code:** [develop](https://github.com/sunlulu427/sunlulu427.github.io/tree/develop)
+
+**site:** https://sunlulu427.github.io/
 
 - vue
 - ionicon

@@ -2,7 +2,7 @@
   <aside class="sidebar" data-sidebar>
     <div class="sidebar-info">
       <figure class="avatar-box">
-        <img src="/src/assets/images/tomato-avatar.jpg" alt="sunlulu" width="80">
+        <img src="/images/tomato-avatar.jpg" alt="sunlulu" width="80">
       </figure>
 
       <div class="info-content">

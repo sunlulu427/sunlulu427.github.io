@@ -51,12 +51,12 @@
         </a>
       </li>
       <li class="social-item">
-        <a href="/src/assets/images/douyin.jpg" target="_self" class="social-link">
+        <a href="/images/douyin.jpg" target="_self" class="social-link">
           <ion-icon name="logo-tiktok"/>
         </a>
       </li>
       <li class="social-item">
-        <a href="/src/assets/images/wechat.jpg" target="_self" class="social-link">
+        <a href="/images/wechat.jpg" target="_self" class="social-link">
           <ion-icon name="logo-wechat"/>
         </a>
       </li>

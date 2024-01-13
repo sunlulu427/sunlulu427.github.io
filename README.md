@@ -1,3 +1,7 @@
-# me
+# About me
 
-[wip] my page
+source code in develop branch
+
+- vue
+- ionicon
+- vite

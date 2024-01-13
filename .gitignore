@@ -28,3 +28,12 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+.vite/
+
+.vscode
+public/
+src/
+deploy.sh
+*.json
+vite.config.js
+*.sh

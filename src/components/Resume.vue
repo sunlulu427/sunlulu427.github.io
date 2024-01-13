@@ -17,7 +17,7 @@
 
         <li class="timeline-item">
 
-          <h4 class="h4 timeline-item-title">University school of the arts</h4>
+          <h4 class="h4 timeline-item-title">Hefei University of Technology</h4>
 
           <span>2007 — 2008</span>
 

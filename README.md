@@ -1,3 +1,9 @@
-# me
+# About me
 
-[wip] my page
+**site:** https://sunlulu427.github.io/
+
+- vue
+- ionicon
+- vite
+- vue-i18n
+- pinia

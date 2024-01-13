@@ -45,22 +45,36 @@
     <div class="separator"></div>
 
     <ul class="social-list">
-      <li class="social-item">
-        <a href="https://github.com/sunlulu427" target="_blank" class="social-link">
-          <ion-icon name="logo-github"/>
-        </a>
-      </li>
-      <li class="social-item">
-        <a href="/images/douyin.jpg" target="_self" class="social-link">
-          <ion-icon name="logo-tiktok"/>
-        </a>
-      </li>
-      <li class="social-item">
-        <a href="/images/wechat.jpg" target="_self" class="social-link">
-          <ion-icon name="logo-wechat"/>
+      <li v-for="item in socialItems" class="social-item">
+        <a :href=item.url target="_blank" class="social-link">
+          <ion-icon :name="item.icon"/>
         </a>
       </li>
     </ul>
   </div>
 </template>
 
+<script setup>
+
+import {onMounted, ref} from "vue";
+
+const socialItems = ref([
+  {
+    url: 'https://github.com/sunlulu427',
+    icon: 'logo-github'
+  },
+  {
+    url: 'https://github.com/sunlulu427/sunlulu427.github.io/raw/main/images/douyin.jpg',
+    icon: 'logo-tiktok'
+  },
+  {
+    url: 'https://github.com/sunlulu427/sunlulu427.github.io/raw/main/images/wechat.jpg',
+    icon: 'logo-wechat'
+  }
+])
+
+onMounted(() => {
+  console.log('social items: ')
+  console.log(JSON.stringify(socialItems.value, null, 2))
+})
+</script>

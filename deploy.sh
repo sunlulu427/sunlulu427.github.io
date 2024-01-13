@@ -6,13 +6,17 @@ commit=$(git log -1 --format=%h)
 echo "Build info: ${branch}@${commit}"
 echo
 
-echo 'Run [npm run build]'
-echo
-npm run build
-
 dist_dir=$(pwd)/dist
 echo "Dist dir: ${dist_dir}"
 echo
+
+if test -d "$dist_dir"; then
+  rm -r "$dist_dir"
+fi
+
+echo 'Run [npm run build]'
+echo
+npm run build
 
 echo 'Deploy this page to github.io'
 echo
@@ -29,6 +33,9 @@ else
   cd $repo_name || exit 1
 fi
 
+echo 'Delete origin exists files'
+rm -r ./*
+
 echo "Copy dist to $repo_name"
 pwd
 cp -r "$dist_dir"/* .
@@ -43,4 +50,5 @@ git commit -a -m "$commit_msg"
 git push -u origin main
 #cp "$dist_dir"/* .
 
+echo 'Repo：https://github.com/sunlulu427/sunlulu427.github.io'
 echo 'See: https://sunlulu427.github.io/'

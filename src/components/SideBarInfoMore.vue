@@ -45,34 +45,22 @@
     <div class="separator"></div>
 
     <ul class="social-list">
-      <li class="social-item" v-for="item in socialItems">
-        <a :href=item.url :target=item.target class="social-link">
-          <ion-icon :name=item.icon></ion-icon>
+      <li class="social-item">
+        <a href="https://github.com/sunlulu427" target="_blank" class="social-link">
+          <ion-icon name="logo-github"/>
+        </a>
+      </li>
+      <li class="social-item">
+        <a href="/src/assets/images/douyin.jpg" target="_self" class="social-link">
+          <ion-icon name="logo-tiktok"/>
+        </a>
+      </li>
+      <li class="social-item">
+        <a href="/src/assets/images/wechat.jpg" target="_self" class="social-link">
+          <ion-icon name="logo-wechat"/>
         </a>
       </li>
     </ul>
   </div>
 </template>
-
-<script setup>
-import {ref} from "vue";
-
-const socialItems = ref([
-  {
-    url: 'https://github.com/sunlulu427',
-    icon: 'logo-github',
-    target: '_blank'
-  },
-  {
-    url: '/src/assets/images/douyin.jpg',
-    icon: 'logo-tiktok',
-    target: '_blank'
-  },
-  {
-    url: '/src/assets/images/wechat.jpg',
-    icon: 'logo-wechat',
-    target: '_self'
-  }
-])
-</script>
 

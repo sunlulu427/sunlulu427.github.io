@@ -42,3 +42,5 @@ commit_msg="Deploy: $branch@$commit"
 git commit -a -m "$commit_msg"
 git push -u origin main
 #cp "$dist_dir"/* .
+
+echo 'See: https://sunlulu427.github.io/'

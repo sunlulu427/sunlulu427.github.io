@@ -144,7 +144,7 @@
             <button class="navbar-link" data-nav-link>Resume</button>
           </li>
 
-          <li class="navbar-item">
+          <li class="navbar-item" v-if="false">
             <button class="navbar-link" data-nav-link>Portfolio</button>
           </li>
 
@@ -608,7 +608,7 @@
         - #PORTFOLIO
       -->
 
-      <article class="portfolio" data-page="portfolio">
+      <article class="portfolio" data-page="portfolio" v-if="false">
 
         <header>
           <h2 class="h2 article-title">Portfolio</h2>

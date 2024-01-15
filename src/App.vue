@@ -266,7 +266,7 @@
           - testimonials
         -->
 
-        <section class="testimonials">
+        <section class="testimonials" v-if="false">
 
           <h3 class="h3 testimonials-title">Testimonials</h3>
 
@@ -414,7 +414,7 @@
           - clients
         -->
 
-        <section class="clients">
+        <section class="clients" v-if="false">
 
           <h3 class="h3 clients-title">Clients</h3>
 
@@ -548,7 +548,7 @@
             <li class="skills-item">
 
               <div class="title-wrapper">
-                <h5 class="h5">Web design</h5>
+                <h5 class="h5">Kotlin</h5>
                 <data value="80">80%</data>
               </div>
 
@@ -561,7 +561,7 @@
             <li class="skills-item">
 
               <div class="title-wrapper">
-                <h5 class="h5">Graphic design</h5>
+                <h5 class="h5">Java/C++/Python</h5>
                 <data value="70">70%</data>
               </div>
 
@@ -574,12 +574,12 @@
             <li class="skills-item">
 
               <div class="title-wrapper">
-                <h5 class="h5">Branding</h5>
-                <data value="90">90%</data>
+                <h5 class="h5">FFmpeg/OpenGL</h5>
+                <data value="90">70%</data>
               </div>
 
               <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 90%;"></div>
+                <div class="skill-progress-fill" style="width: 70%;"></div>
               </div>
 
             </li>
@@ -587,12 +587,12 @@
             <li class="skills-item">
 
               <div class="title-wrapper">
-                <h5 class="h5">WordPress</h5>
-                <data value="50">50%</data>
+                <h5 class="h5">JavaScript/HTML</h5>
+                <data value="50">40%</data>
               </div>
 
               <div class="skill-progress-bg">
-                <div class="skill-progress-fill" style="width: 50%;"></div>
+                <div class="skill-progress-fill" style="width: 40%;"></div>
               </div>
 
             </li>

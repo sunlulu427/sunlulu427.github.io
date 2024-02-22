@@ -856,26 +856,30 @@
           <ul class="blog-posts-list">
 
             <li class="blog-post-item">
-              <a href="#">
+              <a href="https://sunlulu427.github.io/gitlab-kt/index.html" target="_blank">
 
                 <figure class="blog-banner-box">
-                  <img src="/images/blog-1.jpg" alt="Design conferences in 2022" loading="lazy">
+                  <img
+                      src="/images/gitlab.png"
+                      alt="gitlab-kt github repository"
+                      loading="lazy"
+                  >
                 </figure>
 
                 <div class="blog-content">
 
                   <div class="blog-meta">
-                    <p class="blog-category">Design</p>
+                    <p class="blog-category">Kotlin</p>
 
                     <span class="dot"></span>
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
+                    <time datetime="2024-02-10">Fab 10, 2024</time>
                   </div>
 
-                  <h3 class="h3 blog-item-title">Design conferences in 2022</h3>
+                  <h3 class="h3 blog-item-title">Gitlab Open API Library</h3>
 
                   <p class="blog-text">
-                    Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+                    a gitlab openapi library based on kotlin coroutines, retrofit and kotlinx.serialization.
                   </p>
 
                 </div>
@@ -883,145 +887,145 @@
               </a>
             </li>
 
-            <li class="blog-post-item">
-              <a href="#">
+<!--            <li class="blog-post-item">-->
+<!--              <a href="#">-->
 
-                <figure class="blog-banner-box">
-                  <img src="/images/blog-2.jpg" alt="Best fonts every designer" loading="lazy">
-                </figure>
+<!--                <figure class="blog-banner-box">-->
+<!--                  <img src="/images/blog-2.jpg" alt="Best fonts every designer" loading="lazy">-->
+<!--                </figure>-->
 
-                <div class="blog-content">
+<!--                <div class="blog-content">-->
 
-                  <div class="blog-meta">
-                    <p class="blog-category">Design</p>
+<!--                  <div class="blog-meta">-->
+<!--                    <p class="blog-category">Design</p>-->
 
-                    <span class="dot"></span>
+<!--                    <span class="dot"></span>-->
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
-                  </div>
+<!--                    <time datetime="2022-02-23">Fab 23, 2022</time>-->
+<!--                  </div>-->
 
-                  <h3 class="h3 blog-item-title">Best fonts every designer</h3>
+<!--                  <h3 class="h3 blog-item-title">Best fonts every designer</h3>-->
 
-                  <p class="blog-text">
-                    Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
-                  </p>
+<!--                  <p class="blog-text">-->
+<!--                    Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.-->
+<!--                  </p>-->
 
-                </div>
+<!--                </div>-->
 
-              </a>
-            </li>
+<!--              </a>-->
+<!--            </li>-->
 
-            <li class="blog-post-item">
-              <a href="#">
+<!--            <li class="blog-post-item">-->
+<!--              <a href="#">-->
 
-                <figure class="blog-banner-box">
-                  <img src="/images/blog-3.jpg" alt="Design digest #80" loading="lazy">
-                </figure>
+<!--                <figure class="blog-banner-box">-->
+<!--                  <img src="/images/blog-3.jpg" alt="Design digest #80" loading="lazy">-->
+<!--                </figure>-->
 
-                <div class="blog-content">
+<!--                <div class="blog-content">-->
 
-                  <div class="blog-meta">
-                    <p class="blog-category">Design</p>
+<!--                  <div class="blog-meta">-->
+<!--                    <p class="blog-category">Design</p>-->
 
-                    <span class="dot"></span>
+<!--                    <span class="dot"></span>-->
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
-                  </div>
+<!--                    <time datetime="2022-02-23">Fab 23, 2022</time>-->
+<!--                  </div>-->
 
-                  <h3 class="h3 blog-item-title">Design digest #80</h3>
+<!--                  <h3 class="h3 blog-item-title">Design digest #80</h3>-->
 
-                  <p class="blog-text">
-                    Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
-                  </p>
+<!--                  <p class="blog-text">-->
+<!--                    Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.-->
+<!--                  </p>-->
 
-                </div>
+<!--                </div>-->
 
-              </a>
-            </li>
+<!--              </a>-->
+<!--            </li>-->
 
-            <li class="blog-post-item">
-              <a href="#">
+<!--            <li class="blog-post-item">-->
+<!--              <a href="#">-->
 
-                <figure class="blog-banner-box">
-                  <img src="/images/blog-4.jpg" alt="UI interactions of the week" loading="lazy">
-                </figure>
+<!--                <figure class="blog-banner-box">-->
+<!--                  <img src="/images/blog-4.jpg" alt="UI interactions of the week" loading="lazy">-->
+<!--                </figure>-->
 
-                <div class="blog-content">
+<!--                <div class="blog-content">-->
 
-                  <div class="blog-meta">
-                    <p class="blog-category">Design</p>
+<!--                  <div class="blog-meta">-->
+<!--                    <p class="blog-category">Design</p>-->
 
-                    <span class="dot"></span>
+<!--                    <span class="dot"></span>-->
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
-                  </div>
+<!--                    <time datetime="2022-02-23">Fab 23, 2022</time>-->
+<!--                  </div>-->
 
-                  <h3 class="h3 blog-item-title">UI interactions of the week</h3>
+<!--                  <h3 class="h3 blog-item-title">UI interactions of the week</h3>-->
 
-                  <p class="blog-text">
-                    Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
-                  </p>
+<!--                  <p class="blog-text">-->
+<!--                    Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.-->
+<!--                  </p>-->
 
-                </div>
+<!--                </div>-->
 
-              </a>
-            </li>
+<!--              </a>-->
+<!--            </li>-->
 
-            <li class="blog-post-item">
-              <a href="#">
+<!--            <li class="blog-post-item">-->
+<!--              <a href="#">-->
 
-                <figure class="blog-banner-box">
-                  <img src="/images/blog-5.jpg" alt="The forgotten art of spacing" loading="lazy">
-                </figure>
+<!--                <figure class="blog-banner-box">-->
+<!--                  <img src="/images/blog-5.jpg" alt="The forgotten art of spacing" loading="lazy">-->
+<!--                </figure>-->
 
-                <div class="blog-content">
+<!--                <div class="blog-content">-->
 
-                  <div class="blog-meta">
-                    <p class="blog-category">Design</p>
+<!--                  <div class="blog-meta">-->
+<!--                    <p class="blog-category">Design</p>-->
 
-                    <span class="dot"></span>
+<!--                    <span class="dot"></span>-->
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
-                  </div>
+<!--                    <time datetime="2022-02-23">Fab 23, 2022</time>-->
+<!--                  </div>-->
 
-                  <h3 class="h3 blog-item-title">The forgotten art of spacing</h3>
+<!--                  <h3 class="h3 blog-item-title">The forgotten art of spacing</h3>-->
 
-                  <p class="blog-text">
-                    Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  </p>
+<!--                  <p class="blog-text">-->
+<!--                    Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.-->
+<!--                  </p>-->
 
-                </div>
+<!--                </div>-->
 
-              </a>
-            </li>
+<!--              </a>-->
+<!--            </li>-->
 
-            <li class="blog-post-item">
-              <a href="#">
+<!--            <li class="blog-post-item">-->
+<!--              <a href="#">-->
 
-                <figure class="blog-banner-box">
-                  <img src="/images/blog-6.jpg" alt="Design digest #79" loading="lazy">
-                </figure>
+<!--                <figure class="blog-banner-box">-->
+<!--                  <img src="/images/blog-6.jpg" alt="Design digest #79" loading="lazy">-->
+<!--                </figure>-->
 
-                <div class="blog-content">
+<!--                <div class="blog-content">-->
 
-                  <div class="blog-meta">
-                    <p class="blog-category">Design</p>
+<!--                  <div class="blog-meta">-->
+<!--                    <p class="blog-category">Design</p>-->
 
-                    <span class="dot"></span>
+<!--                    <span class="dot"></span>-->
 
-                    <time datetime="2022-02-23">Fab 23, 2022</time>
-                  </div>
+<!--                    <time datetime="2022-02-23">Fab 23, 2022</time>-->
+<!--                  </div>-->
 
-                  <h3 class="h3 blog-item-title">Design digest #79</h3>
+<!--                  <h3 class="h3 blog-item-title">Design digest #79</h3>-->
 
-                  <p class="blog-text">
-                    Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
-                  </p>
+<!--                  <p class="blog-text">-->
+<!--                    Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.-->
+<!--                  </p>-->
 
-                </div>
+<!--                </div>-->
 
-              </a>
-            </li>
+<!--              </a>-->
+<!--            </li>-->
 
           </ul>
 

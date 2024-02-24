@@ -854,36 +854,41 @@
         <section class="blog-posts">
 
           <ul class="blog-posts-list">
-
             <li class="blog-post-item">
               <a href="https://sunlulu427.github.io/gitlab-kt/index.html" target="_blank">
-
                 <figure class="blog-banner-box">
-                  <img
-                      src="/images/gitlab.png"
-                      alt="gitlab-kt github repository"
-                      loading="lazy"
-                  >
+                  <img src="/images/gitlab.png" alt="gitlab-kt github repository" loading="lazy">                  >
                 </figure>
-
                 <div class="blog-content">
-
                   <div class="blog-meta">
                     <p class="blog-category">Kotlin</p>
-
                     <span class="dot"></span>
-
                     <time datetime="2024-02-10">Fab 10, 2024</time>
                   </div>
-
                   <h3 class="h3 blog-item-title">Gitlab Open API Library</h3>
-
                   <p class="blog-text">
                     a gitlab openapi library based on kotlin coroutines, retrofit and kotlinx.serialization.
                   </p>
-
                 </div>
+              </a>
+            </li>
 
+            <li class="blog-post-item">
+              <a href="https://github.com/sunlulu427/Serial-py" target="_blank">
+                <figure class="blog-banner-box">
+                  <img src="/images/serial-py.png" alt="Serial-py" loading="lazy">                  >
+                </figure>
+                <div class="blog-content">
+                  <div class="blog-meta">
+                    <p class="blog-category">Python</p>
+                    <span class="dot"></span>
+                    <time datetime="2022-11-01">Nov 11, 2022</time>
+                  </div>
+                  <h3 class="h3 blog-item-title">Python Serialization</h3>
+                  <p class="blog-text">
+                    a python serialization framework based on python typing annotaions.
+                  </p>
+                </div>
               </a>
             </li>
 

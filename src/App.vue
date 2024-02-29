@@ -892,6 +892,25 @@
               </a>
             </li>
 
+            <li class="blog-post-item">
+              <a href="https://github.com/sunlulu427/AutoConverter" target="_blank">
+                <figure class="blog-banner-box">
+                  <img src="/images/AutoConverter.png" alt="AutoConverter" loading="lazy">                  >
+                </figure>
+                <div class="blog-content">
+                  <div class="blog-meta">
+                    <p class="blog-category">Kotlin</p>
+                    <span class="dot"></span>
+                    <time datetime="2022-11-01">Dec 1, 2023</time>
+                  </div>
+                  <h3 class="h3 blog-item-title">[WIP] Auto Converter</h3>
+                  <p class="blog-text">
+                    generate json related functions for data class via ksp and kotlin-poet
+                  </p>
+                </div>
+              </a>
+            </li>
+
 <!--            <li class="blog-post-item">-->
 <!--              <a href="#">-->
 

@@ -855,6 +855,24 @@
 
           <ul class="blog-posts-list">
             <li class="blog-post-item">
+              <a href="https://github.com/sunlulu427/AutoConverter" target="_blank">
+                <figure class="blog-banner-box">
+                  <img src="/images/AutoConverter.png" alt="AutoConverter" loading="lazy">                  >
+                </figure>
+                <div class="blog-content">
+                  <div class="blog-meta">
+                    <p class="blog-category">Kotlin</p>
+                    <span class="dot"></span>
+                    <time datetime="2022-11-01">Dec 1, 2023</time>
+                  </div>
+                  <h3 class="h3 blog-item-title">Auto Converter</h3>
+                  <p class="blog-text">
+                    generate json related functions for data class via <b>ksp</b> and <b>kotlin-poet</b>
+                  </p>
+                </div>
+              </a>
+            </li>
+            <li class="blog-post-item">
               <a href="https://sunlulu427.github.io/gitlab-kt/index.html" target="_blank">
                 <figure class="blog-banner-box">
                   <img src="/images/gitlab.png" alt="gitlab-kt github repository" loading="lazy">                  >
@@ -867,7 +885,7 @@
                   </div>
                   <h3 class="h3 blog-item-title">Gitlab Open API Library</h3>
                   <p class="blog-text">
-                    a gitlab openapi library based on kotlin coroutines, retrofit and kotlinx.serialization.
+                    a gitlab openapi library based on kotlin <b>coroutines</b>, <b>retrofit</b> and <b>kotlinx.serialization</b>.
                   </p>
                 </div>
               </a>
@@ -886,26 +904,7 @@
                   </div>
                   <h3 class="h3 blog-item-title">Python Serialization</h3>
                   <p class="blog-text">
-                    a python serialization framework based on python typing annotaions.
-                  </p>
-                </div>
-              </a>
-            </li>
-
-            <li class="blog-post-item">
-              <a href="https://github.com/sunlulu427/AutoConverter" target="_blank">
-                <figure class="blog-banner-box">
-                  <img src="/images/AutoConverter.png" alt="AutoConverter" loading="lazy">                  >
-                </figure>
-                <div class="blog-content">
-                  <div class="blog-meta">
-                    <p class="blog-category">Kotlin</p>
-                    <span class="dot"></span>
-                    <time datetime="2022-11-01">Dec 1, 2023</time>
-                  </div>
-                  <h3 class="h3 blog-item-title">[WIP] Auto Converter</h3>
-                  <p class="blog-text">
-                    generate json related functions for data class via ksp and kotlin-poet
+                    a python serialization framework based on <b>python typing annotations</b>.
                   </p>
                 </div>
               </a>
